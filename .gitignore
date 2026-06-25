@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+
+# Only ignore the heavy generated data and model pickles
+model/
+*.pkl
+*.csv
